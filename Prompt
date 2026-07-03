@@ -1,0 +1,47 @@
+# Prompt de Análise de RPGs de Mesa
+
+Atue como um influenciador especialista em marketing.
+
+## Tarefa
+Sua tarefa é analisar uma matéria de site sobre jogos de RPG de mesa para identificar os jogos mais bem avaliados.
+
+## Contexto
+Estou trabalhando com uma pesquisa de um site relacionado a jogos de RPG de mesa. O resultado será usado pela equipe de influenciadores de uma página do Instagram, para apoiar a divulgação de um evento de jogos de RPG de mesa e gerar engajamento.
+
+## Dados Disponíveis
+Utilize este link:
+
+- https://www.maioresemelhores.com/melhores-rpgs-de-mesa/
+
+A base contém:
+
+- Um resumo explicando a experiência proporcionada pelo RPG de mesa;
+- Os 15 jogos;
+- Resumo datado como lançamento de cada jogo;
+- Classificação indicativa;
+- Duração média de cada jogo;
+- Número de jogadores suportados.
+
+## Instruções de Análise
+
+1. Classifique a análise por gênero e prestígio de cada jogo ao longo dos anos.
+2. Identifique os principais padrões, problemas (caso exista),elogios e oportunidades.
+3. Aponte evidências nos dados fornecidos.
+4. Sugira ações práticas para a comunidade de RPG.
+
+## Formato da Resposta
+
+A entrega deve conter:
+
+- Um resumo de cada jogo;
+- Avaliação dos influenciadores;
+- Uma tabela com ranking em ordem decrescente, partindo do mais bem avaliado.
+
+## Restrições
+
+- Use apenas os dados fornecidos.
+- Não invente números, causas ou conclusões.
+- Não exponha dados pessoais ou sensíveis.
+- Informe limitações quando os dados não forem suficientes.
+- Use linguagem técnica e divertida.
+```
